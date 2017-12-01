@@ -36,3 +36,19 @@ CapsNet Videos:
 | ![Cifer10.png](https://github.com/sulaimanvesal/CapsNet/blob/master/images/Cifer10.png) | 
 |:--:| 
 | *CapsNet model implemented in keras with the same architecture in the paper: https://arxiv.org/abs/1710.09829|
+
+We trained the CapsNet model through @XifengGo implementation in keras with slight changes, the hyperparameters set as following:
+
+```batch_size =32
+epochs = 300
+lam_recon = 1.563
+num_routing = 3
+lr = 0.0001
+Optimizer = Adam 
+```
+
+It can be seen that the model is still underfitting and there should be space for improvement in the classification.
+
+| ![Cifer102.png](https://github.com/sulaimanvesal/CapsNet/blob/master/images/Cifer102.png) | 
+|:--:| 
+| *Validation CapsNet and Validation loss for Cifer10 Dataset|
