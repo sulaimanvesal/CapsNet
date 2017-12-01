@@ -50,5 +50,5 @@ Optimizer = Adam
 It can be seen that the model is still underfitting and there should be space for improvement in the classification.
 
 | ![Cifer102.png](https://github.com/sulaimanvesal/CapsNet/blob/master/images/Cifer102.png) | 
-|:--:| 
+|:--:|
 | *Validation CapsNet and Validation loss for Cifer10 Dataset|
