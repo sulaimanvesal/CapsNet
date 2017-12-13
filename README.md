@@ -1,4 +1,4 @@
-# CapsNet
+# CapsNet (Code Added for MNIST, Cifer10 and Cat and Dog Datasets)
 We want to implement the CapsNet model based on @XifengGo implementation: Here is a pipline of CapsNet, the neural network architecture using Capsules. 
 
 | ![1*0NxktTeAhqNyRa411M3LXA.jpeg](https://cdn-images-1.medium.com/max/1600/1*0NxktTeAhqNyRa411M3LXA.jpeg) | 
